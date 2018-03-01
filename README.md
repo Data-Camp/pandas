@@ -1,6 +1,5 @@
 # Pandas中文手册
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/qzcool/DataCamp_pandas_cookbook/master)
-
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Data-Camp/pandas/master)
 
 [pandas](http://pandas.pydata.org/) 是一个用于数据分析的Python库，它能让你快速处理一些探索性的工作。
 
