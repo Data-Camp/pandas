@@ -67,9 +67,6 @@ jupyter notebook
 
 执行完以上命令后，你的浏览器会自动打开一个地址为 `http://localhost:8888`的页面。
 
-## 报错和改进
-如果你发现某些地方有错误，或者是你想学习一些我在这里没有讲到的东西，又或者是你想分享些东西，赶紧发个issue，或者发邮件，pull request都行！
-
 ## 待办
 - [ ] join 操作
 - [ ] 使用 stack/unstack
