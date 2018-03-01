@@ -39,7 +39,7 @@ Pandas 的[帮助文档](http://pandas.pydata.org/pandas-docs/stable/)已经相�
 
 ## 怎么使用Panda手册
 ### 在线环境
-推荐使用Binder的出色在线Jupyter Notebook运行环境，[点击这里即可开始](https://mybinder.org/v2/gh/qzcool/DataCamp_pandas_cookbook/master)。对网速要求不高，基本均可流畅运行。
+推荐使用Binder的出色在线Jupyter Notebook运行环境，[点击这里即可开始](https://mybinder.org/v2/gh/Data-Camp/pandas/master)。对网速要求不高，基本均可流畅运行。
 
 ### 本地环境
 首先，你需要更新下Jupyter Notebook(&gt;= 3.0) 以及 pandas(&gt;=0.13)
